@@ -16,7 +16,7 @@ Sou Enfermeiro especializado em clínicas médicas e cirúrgicas e atualmente es
 - **Interesses:** MLOps, Estatística Aplicada, Inteligência Artificial.
 
 ### 🎓 Formação Acadêmica
-- **Data Science** | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
+- **Data Science** | Escola Britânica de Artes Criativas e Tecnologia (EBAC)
   Status: Em andamento.
   Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
 

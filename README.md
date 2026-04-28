@@ -17,12 +17,12 @@ Sou Enfermeiro especializado em clínicas médicas e cirúrgicas e atualmente es
 
 ### 🎓 Formação Acadêmica
 - Data Science | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
-- Status: Em andamento.
-- Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
+  Status: Em andamento.
+  Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
 
 - Especialização em Enfermagem Clínica (Médico-Cirúrgica) | Saúde Coletiva | Saúde Mental
-- Status: Concluído.
-- Foco prático: Gestão de processos hospitalares, segurança do paciente, análise de prontuários e protocolos de atendimento.
+  Status: Concluído.
+  Foco prático: Gestão de processos hospitalares, segurança do paciente, análise de prontuários e protocolos de atendimento.
 
 ### 📜 Certificações técnicas
 - Boas Práticas Clínicas - GCP (Fiocruz)

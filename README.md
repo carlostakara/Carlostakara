@@ -32,7 +32,7 @@ Python 2026 - Completo do zero ao Avançado | Udemy
 Foco prático: automação de rotinas e manipulação avançada de dados (Data Wrangling). Domínio das bibliotecas Pandas, NumPy e Matplotlib para limpeza, transformação e análise exploratória de grandes volumes de dados (Datasets).
 
 
-📫 Como me encontrar: [https://www.linkedin.com/in/carlostakara/] | [carlos.danitc@gmail.com]
+📫 Como me encontrar: https://www.linkedin.com/in/carlostakara/ | carlos.danitc@gmail.com
 
 
  #### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 

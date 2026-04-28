@@ -11,7 +11,7 @@ Sou Enfermeiro especializado em clínicas médicas e cirúrgicas e atualmente es
 **Finanças (Fintech):** Foco em detecção de fraudes, modelagem de risco de crédito e análise de séries temporais.
 
 ### 🛠  Tech Stack
-**Linguagens:** Python (Pandas, NumPy, Scikit-learn), SQL.
+**Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL.
 **Ferramentas:** Git, GitHub, Power BI, Portugol (lógica de programação).
 **Interesses:** MLOps, Estatística Aplicada, Inteligência Artificial.
 

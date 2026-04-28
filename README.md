@@ -26,6 +26,7 @@ Foco prático: Gestão de processos hospitalares, segurança do paciente, análi
 
 ### 📜 Certificações técnicas
 Boas Práticas Clínicas - GCP (Fiocruz)
+
 Python 2026 - Completo do zero ao Avançado | Udemy
 
 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/carlostakara/) |  carlos.danitc@gmail.com

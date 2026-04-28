@@ -6,27 +6,27 @@
 
 Sou Enfermeiro especializado em clínicas médicas e cirúrgicas e atualmente estou em transição de carreira para a Ciência de Dados. Minha trajetória combina o rigor científico da área da saúde com a capacidade analítica da tecnologia com o objetivo de aplicar análise de dado, AI e machine learning.
 
-### 🎯  Áreas de Especialização
-**Saúde (Healthcare):** Foco em Clinical Data Management - CDM, Real-World Evidence - RWE e Operações Clínicas, Inteligência de Estudo e análise de prontuário.
-**Finanças (Fintech):** Foco em detecção de fraudes, modelagem de risco de crédito e análise de séries temporais.
+### 🎯 Áreas de Especialização
+- **Saúde (Healthcare):** Foco em Clinical Data Management - CDM, Real-World Evidence - RWE e Operações Clínicas, Inteligência de Estudo e análise de prontuário.
+- **Finanças (Fintech):** Foco em detecção de fraudes, modelagem de risco de crédito e análise de séries temporais.
 
-### 🛠  Tech Stack
-**Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL.
-**Ferramentas:** Git, GitHub, Power BI, Portugol (lógica de programação).
-**Interesses:** MLOps, Estatística Aplicada, Inteligência Artificial.
+### 🛠 Tech Stack
+- **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL.
+- **Ferramentas:** Git, GitHub, Power BI, Portugol (lógica de programação).
+- **Interesses:** MLOps, Estatística Aplicada, Inteligência Artificial.
 
-### 🎓  Formação Acadêmica
-Data Science | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
-Status: Em andamento.
-Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
+### 🎓 Formação Acadêmica
+- Data Science | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
+- Status: Em andamento.
+- Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
 
-Especialização em Enfermagem Clínica (Médico-Cirúrgica) | Saúde Coletiva | Saúde Mental
-Status: Concluído.
-Foco prático: Gestão de processos hospitalares, segurança do paciente, análise de prontuários e protocolos de atendimento.
+- Especialização em Enfermagem Clínica (Médico-Cirúrgica) | Saúde Coletiva | Saúde Mental
+- Status: Concluído.
+- Foco prático: Gestão de processos hospitalares, segurança do paciente, análise de prontuários e protocolos de atendimento.
 
-### 📜  Certificações técnicas
-Boas Práticas Clínicas - GCP (Fiocruz)
-Python 2026 - Completo do zero ao Avançado | Udemy
+### 📜 Certificações técnicas
+- Boas Práticas Clínicas - GCP (Fiocruz)
+- Python 2026 - Completo do zero ao Avançado | Udemy
 
 
 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/carlostakara/) |  carlos.danitc@gmail.com

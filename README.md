@@ -16,17 +16,17 @@ Sou Enfermeiro especializado em clínicas médicas e cirúrgicas e atualmente es
 - **Interesses:** MLOps, Estatística Aplicada, Inteligência Artificial.
 
 ### 🎓 Formação Acadêmica
-- Data Science | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
+- **Data Science** | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
   Status: Em andamento.
   Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
 
-- Especialização em Enfermagem Clínica (Médico-Cirúrgica) | Saúde Coletiva | Saúde Mental
+- **Especialização em Enfermagem** Clínica (Médico-Cirúrgica) | Saúde Coletiva | Saúde Mental
   Status: Concluído.
   Foco prático: Gestão de processos hospitalares, segurança do paciente, análise de prontuários e protocolos de atendimento.
 
 ### 📜 Certificações técnicas
-- Boas Práticas Clínicas - GCP (Fiocruz)
 - Python 2026 - Completo do zero ao Avançado | Udemy
+- Boas Práticas Clínicas - GCP (Fiocruz)
 
 
 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/carlostakara/) |  carlos.danitc@gmail.com

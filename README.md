@@ -1,36 +1,38 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo,+meu+nome++é+Carlos+Takara;From+Brazil;Em+breve+Data+Scientist:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo,+meu+nome+é+Carlos+Takara;From+Brazil;Em+breve+Data+Scientist+:)">
+</p>
 
+---
 
+### 🧬 Sobre Mim
+Sou um profissional de saúde em transição para a Ciência de Dados, unindo o rigor clínico da linha de frente à capacidade analítica tecnológica. Meu objetivo é transformar dados complexos em soluções inteligentes para os setores de Saúde e Finanças.
 
-Sou Enfermeiro especializado em clínicas médicas e cirúrgicas e atualmente estou em transição de carreira para a Ciência de Dados. Minha trajetória combina o rigor científico da área da saúde com a capacidade analítica da tecnologia com o objetivo de aplicar análise de dado, AI e machine learning.
+### 🛠️ Tech Stack & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117) ![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🎯 Áreas de Especialização
-- **Saúde (Healthcare):** Foco em Clinical Data Management - CDM, Real-World Evidence - RWE e Operações Clínicas, Inteligência de Estudo e análise de prontuário.
-- **Finanças (Fintech):** Foco em detecção de fraudes, modelagem de risco de crédito e análise de séries temporais.
+* **Linguagens & Libs:** Python (Pandas, NumPy, Scikit-Learn), SQL.
+* **Data Science:** Estatística Aplicada, Machine Learning, Web Scraping.
+* **Domínio Clínico:** Clinical Data Management, GCP (Fiocruz), Bioestatística.
 
-### 🛠 Tech Stack
-- **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL.
-- **Ferramentas:** Git, GitHub, Power BI, Portugol (lógica de programação).
-- **Interesses:** MLOps, Estatística Aplicada, Inteligência Artificial.
+---
 
-### 🎓 Formação Acadêmica
-- **Data Science** | Escola Britânica de Artes Criativas e Tecnologia (EBAC)
-  Status: Em andamento. Foco técnico: Python para análise de dados, SQL, Estatística, Machine Learning, Visualização de Dados e Lógica de Programação.
+### 🎓 Formação & Certificações
+* **Ciência de Dados** – EBAC (Em andamento)
+* **Especialização em Enfermagem** (Clínica, Saúde Mental e Coletiva)
+* **Certificações:** Boas Práticas Clínicas (GCP), Python Avançado (Udemy).
 
-- **Especialização em Enfermagem** Clínica (Médico-Cirúrgica) | Saúde Coletiva | Saúde Mental
-  Status: Concluído. Foco prático: Gestão de processos hospitalares, segurança do paciente, análise de prontuários e protocolos de atendimento.
+---
 
-### 📜 Certificações técnicas
-- Python 2026 - Completo do zero ao Avançado | Udemy
-- Boas Práticas Clínicas - GCP (Fiocruz)
+### 📊 Áreas de Interesse
+- **HealthTech:** Clinical Analytics, IA Preditiva e Gestão de Dados.
+- **Fintech:** Modelagem de Risco e Detecção de Fraudes.
 
+---
 
-📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/carlostakara/) |  carlos.danitc@gmail.com
-
-
- #### Main skills:  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+📫 **Vamos nos conectar?**
+[LinkedIn](https://www.linkedin.com/in/carlostakara/) | [E-mail](mailto:carlos.danitc@gmail.com)
 <!--
 **carlostakara/Carlostakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
